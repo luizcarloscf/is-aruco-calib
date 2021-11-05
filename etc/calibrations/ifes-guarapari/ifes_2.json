@@ -59,6 +59,47 @@
   "ints32": [],
   "ints64": []
  },
- "extrinsic": [],
+ "extrinsic": [
+    {
+     "from": "1000",
+     "to": "0",
+     "tf": {
+      "shape": {
+       "dims": [
+        {
+         "size": 4,
+         "name": "rows"
+        },
+        {
+         "size": 4,
+         "name": "cols"
+        }
+       ]
+      },
+      "type": "DOUBLE_TYPE",
+      "floats": [],
+      "doubles": [
+       1,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "ints32": [],
+      "ints64": []
+     }
+    }
+   ],
  "calibratedAt": "2021-08-09T17:42:38.364732330Z"
 }
